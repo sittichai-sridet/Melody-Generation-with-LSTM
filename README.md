@@ -1,4 +1,4 @@
-# Melody-Generation-GNN
+# Melody-Generation-With-LSTM
 This work is part of a Deep Learning project conducted by Thanisorn Carpholdee, Sittichai Sridet and Nichanan Phetkong
 
 ## Introduction
