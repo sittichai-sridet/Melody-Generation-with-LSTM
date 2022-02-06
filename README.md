@@ -17,4 +17,4 @@ then switch to using the roulette wheel to add randomness to the next note.
 (Based on our team's experience with LSTM homework that sometimes LSTM repeats the next gen.)
 
 ## Methodology
-![plot]https://github.com/sittichai-sridet/Melody-Generation-GNN/blob/main/overall.jpg)
+![alt text]https://github.com/sittichai-sridet/Melody-Generation-GNN/blob/main/overall.jpg?raw=true)
